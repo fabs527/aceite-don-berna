@@ -16,3 +16,5 @@ public class TestDatabaseConnection3 {
         return DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
     }
 }
+
+adsadasdsadsadsdssad
